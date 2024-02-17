@@ -34,5 +34,8 @@ Your app is ready to be deployed!
 
 ## Deployed Version
 
-[Video Application]
-(https://video-app-ten-blond.vercel.app)
+[Video Application](https://video-app-ten-blond.vercel.app)
+
+## Light House Report
+
+![Video Application](https://github.com/sadathshariff/NoteYard/assets/51914072/0ae82251-8aea-4e3d-863b-a37c8a4b888e)
